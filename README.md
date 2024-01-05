@@ -3,9 +3,9 @@
 Front-End Developer
 
 * 🌍  I'm based in Tabriz
-* 🖥️  See my portfolio at [jbrave.ir](http://jbrave.ir)
+* 🖥️  See my portfolio at [jbrave.ir](https://jbrave.ir)
 * ✉️  You can contact me at [javadshoja1999@gmail.com](mailto:javadshoja1999@gmail.com)
-*   🚀  I'm currently working on [Aria Khodro Simay Sabz](https://ariakhodro.com/)
+*   🚀  I'm currently working on [Safar 724](https://safar724.com)
 
 ### Skills
 
